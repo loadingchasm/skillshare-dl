@@ -4,7 +4,6 @@ from magic import cookie
 
 # or by class ID:
 # dl.download_course_by_class_id(189505397)
-
 def main():
     dl = Skillshare(cookie)
     course_url = sys.argv[1]
