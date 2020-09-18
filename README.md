@@ -2,6 +2,7 @@
 
 <h4> Note: Copied from another repository to add a few changes. None of this is mine and I do not claim to own this.</h4>
 
+Original Code: https://github.com/beast1hack/skillshare-1hack
 
 ## Disclaimer
 
